@@ -4,3 +4,7 @@ Files to be run authomatically in order to have Docker and Singularity images wi
 Prerequisites:
 - install docker locally
 - install singularity locally
+
+```console
+example of terminal command
+```
