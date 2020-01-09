@@ -24,3 +24,9 @@ Once, we are done we *exit* the container and check the name of it, the we can s
 docker ps -l
 docker commit NAME_OF_CONTAINER TAG_OF_CONTAINER
 ```
+
+Then push back to Docker
+
+```console
+docker push TAG_OF_CONTAINER
+```
