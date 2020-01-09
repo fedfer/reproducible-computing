@@ -1,5 +1,6 @@
 # Create Singularity image that works as executable
 
+Build the *felpo_img* docker container and call it *felpo_ex*
 
 ```console
 docker build -t felpo93/felpo_ex docker/
