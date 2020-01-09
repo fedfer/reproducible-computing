@@ -15,7 +15,7 @@ docker run -it rocker/geospatial
 Inside the container, we can run the following command to install R packages:
 
 ```console
-install2.R NAME_OF_THE_PACKAGE
+install2.r NAME_OF_THE_PACKAGE
 ```
 
 Once, we are done we *exit* the container and check the name of it, the we can simply commit it and add a tag:
