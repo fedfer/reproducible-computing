@@ -14,5 +14,5 @@ docker build -t felpo93/felpo_ex docker/
 Then via singularity we can build a local singulairty image (*simg*) that can be transferred as a file.
 
 ```console
-singularity pull docker://felpo93/felpo_img
+singularity pull docker://felpo93/felpo_ex
 ```
